@@ -30,6 +30,6 @@ Solidity interfaces for the Discretized Liquidity Market Maker (DLMM) protocol -
 ## Contract address
 
 ### Monad Testnet
-- **LBFactory**: [`0xF5f8786bBF172ABf4009aF5BCcbD6dC1A6020241`](https://testnet.monadexplorer.com/address/0xF5f8786bBF172ABf4009aF5BCcbD6dC1A6020241)
-- **LBRouter**: [`0x04697F2675B8E37406Bfe217161F2e876410138D`](https://testnet.monadexplorer.com/address/0x04697F2675B8E37406Bfe217161F2e876410138D)
-- **LBQuoter**: [`0xa2f59b5a806ACD8cac4b0d92E7AAd47676b826DA`](https://testnet.monadexplorer.com/address/0xa2f59b5a806ACD8cac4b0d92E7AAd47676b826DA)
+- **LBFactory**: [`0x8Bb9727Ca742C146563DccBAFb9308A234e1d242`](https://monadvision.com/address/0x8Bb9727Ca742C146563DccBAFb9308A234e1d242)
+- **LBRouter**: [`0x721aC9E688E6b86F48b08DB2ba2D4B7bBBd12665`](https://monadvision.com/address/0x721aC9E688E6b86F48b08DB2ba2D4B7bBBd12665)
+- **LBQuoter**: [`0xA398af902950081F2FBE3E16e5E474C2C72ae27a`](https://monadvision.com/address/0xA398af902950081F2FBE3E16e5E474C2C72ae27a)
